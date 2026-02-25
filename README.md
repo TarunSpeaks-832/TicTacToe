@@ -2,7 +2,7 @@
 
 A fully functional, interactive web-based version of the classic Tic-Tac-Toe game built from scratch using core web technologies.
 
-## 🚀 Features
+## Features
 - **Real-time Gameplay:** Smooth, turn-based experience for two players.
 - **Smart Win Detection:** Automatically identifies wins (horizontal, vertical, diagonal) or draws.
 - **Responsive Design:** Optimized for both desktop and mobile screens.
@@ -13,7 +13,7 @@ A fully functional, interactive web-based version of the classic Tic-Tac-Toe gam
 - **CSS3:** For modern styling, animations, and responsive flexbox design.
 - **JavaScript (ES6+):** For game logic, DOM manipulation, and state management.
 
-## 📖 How to Play
+## How to Play
 1. Open the project in any modern web browser.
 2. Players take turns clicking on empty cells to place 'X' or 'O'.
 3. The game declares a winner or a draw instantly.
